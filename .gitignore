@@ -1,0 +1,15 @@
+# Jest coverage reports
+coverage/
+
+# Node.js
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+*.log
+*.tmp
